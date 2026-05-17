@@ -72,4 +72,7 @@ dependencies {
     androidTestImplementation("androidx.compose.ui:ui-test-junit4")
     debugImplementation("androidx.compose.ui:ui-tooling")
     debugImplementation("androidx.compose.ui:ui-test-manifest")
+    implementation ("androidx.cardview:cardview:1.0.0")
+    implementation ("com.google.mlkit:text-recognition:16.0.0")
+
 }
