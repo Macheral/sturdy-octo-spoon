@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    FileProvider path configuration.
+    Only the cache directory is exposed, where the temporary photo file lives.
+    The file is deleted as soon as the camera returns.
+-->
+<paths>
+    <cache-path name="temp_photos" path="." />
+</paths>
